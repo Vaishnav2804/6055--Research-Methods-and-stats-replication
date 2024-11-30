@@ -1,0 +1,212 @@
+Sl.No,Age,Physical,Interpretation,Social,Interpretation.1,Temperamental,Interpretation.2,Educational,Interpretation.3,Moral,Interpretation.4,Intellectual,Interpretation.5,TOTAL,Interpretation.6,Gender,TOTAL_BAI,Interpretaion_BAI
+1,21,31,Above average,39,High,28,Above average,27,Above average,28,Above average,22,Average,175,Above Average,M,8,Very low
+2,18,34,High,38,High,28,Above average,32,Above average,34,High,37,High,199,High,M,14,Very low
+3,21,33,High,21,Average,22,Average,27,Above average,34,High,27,Above average,164,Above average,M,26,Moderate
+4,19,29,Above average,29,Above average,30,Above average,30,Above average,32,Above average,24,Average,174,Above average,M,6,Very low
+5,18,26,Above average,25,Above average,27,Above average,23,Average,25,Above average,24,Average,150,Above average,M,13,Very low
+6,20,26,Above average,37,High,35,High,27,Above average,34,High,31,Above average,190,Above average,M,10,Very low
+7,19,29,Above average,36,High,22,Average,27,Above average,29,Above average,28,Above average,171,Above average,M,25,Moderate
+8,23,37,High,24,Average,28,Above average,28,Above average,31,Above average,31,Above average,179,Above average,M,11,Very low
+9,26,38,High,32,Above average,32,Above average,28,Above average,36,High,27,Above average,193,High,M,6,Very low
+10,18,31,Above average,37,High,24,Average,23,Average,34,High,35,High,184,Above average,M,13,Very low
+11,22,30,Above average,28,Above average,27,Above average,30,Above average,30,Above average,30,Above average,175,Above average,M,14,Very low
+12,26,28,Above average,29,Above average,25,Above average,25,Above average,27,Above average,29,Above average,167,Above average,M,17,Very low
+13,18,17,Av,22,Average,20,Average,22,Average,19,Average,19,Average,119,Average,M,36,High
+14,18,29,Above average,29,Above average,27,Above average,35,High,31,Above average,28,Above average,179,Above average,M,10,Very low
+15,22,28,Above average,24,Average,23,Average,22,Average,30,Above average,25,Above average,152,Above average,M,24,Moderate
+16,18,36,High,25,Above average,26,Above average,31,Above average,34,High,28,Above average,181,Above average,M,26,Moderate
+17,21,27,Above average,26,Above average,30,Above average,24,Average,32,Above average,32,Above average,171,Above average,M,39,High
+18,19,32,Above average,36,High,28,Above average,28,Above average,25,Above average,31,Above average,180,Above average,M,38,High
+19,26,39,High,36,High,37,High,35,High,36,High,30,Above average,213,High,M,0,Very low
+20,21,27,Above average,32,Above average,28,Above average,28,Above average,29,Above average,29,Above average,173,Above average,M,1,Very low
+21,23,16,Below average,22,Average,17,Average,19,Average,26,Above average,23,Average,123,Average,M,42,High
+22,22,19,Average,35,High,18,Average,20,Average,31,Above average,25,Above average,148,Above average,M,39,High
+23,23,32,Above average,26,Above average,28,Above average,25,Above average,28,Above average,25,Above average,164,Above average,M,9,Very low
+24,19,30,Above average,31,Above average,27,Above average,27,Above average,32,Above average,27,Above average,174,Above average,M,11,Very low
+25,21,32,Above average,32,Above average,31,Above average,32,Above average,26,Above average,30,Above average,183,Above average,M,39,High
+26,20,22,Average,25,Above average,24,Average,15,Below Average,30,Above average,22,Average,138,Average,M,39,High
+27,21,29,Above average,25,Above average,35,High,27,Above average,34,High,27,Above average,177,Above average,M,8,Very low
+28,21,26,Above average,35,High,28,Above average,28,Above average,27,Above average,27,Above average,171,Above average,M,25,Moderate
+29,20,30,Above average,31,Above average,27,Above average,30,Above average,34,High,23,Average,175,Above average,M,29,Moderate
+30,20,31,Above average,26,Average,33,High,28,Above average,22,Average,28,Above average,168,Above average,M,31,Moderate
+31,22,33,High,25,Above average,36,High,40,High,34,High,29,Above average,207,High,M,14,Very low
+32,19,30,Above average,30,Above average,27,Above average,28,Above average,35,High,36,Above average,186,Above average,M,27,Moderate
+33,18,29,Above average,18,Average,29,Above average,28,Above average,26,Above average,21,Average,151,Above average,M,35,Moderate
+34,24,36,High,29,Above average,32,Above average,24,Average,34,High,27,Above average,182,Above average,M,3,Very low
+35,23,27,Above average,29,Above average,30,Above average,29,Above average,31,Above average,27,Above average,173,Above average,M,37,High
+36,18,33,High,28,Above average,33,High,23,Average,34,High,26,Above average,177,Above average,M,19,Very low
+37,21,31,Above average,29,Above average,25,Above average,25,Above average,33,High,27,Above average,170,Above average,M,1,Very low
+38,20,20,Average,28,Above average,20,Average,20,Average,19,Average,18,Average,125,Average,M,45,High
+39,19,29,Above average,33,High,31,Above average,33,High,32,Above average,25,Above average,183,Above average,M,30,Moderate
+40,21,30,Above average,24,Average,30,Above average,24,Average,26,Above average,29,Above average,163,Above average,M,15,Very low
+41,22,33,High,33,High,34,High,31,Above average,34,High,33,High,198,High,M,43,High
+42,23,28,Above average,37,High,32,Above average,24,Average,34,High,30,Above average,185,Above average,M,21,Very low
+43,21,19,Average,26,Above average,22,Average,25,Above average,32,Above average,24,Average,148,Above average,M,43,High
+44,21,26,Above average,29,Above average,28,Above average,29,Above average,27,Above average,24,Average,163,Above average,M,18,Very low
+45,21,33,High,35,High,30,Above average,24,Average,27,Average,26,Average,175,Above average,M,4,Very low
+46,22,27,Above average,29,Above average,22,Average,24,Average,30,Above average,21,Average,153,Above average,M,20,Very low
+47,21,32,Above average,31,Above average,29,Above average,27,Above average,29,Above average,25,Above average,173,Above average,M,16,Very low
+48,21,25,Above average,24,Average,28,Above average,25,Above average,27,Above average,24,Average,153,Above average,M,21,Very low
+49,22,15,Below average,28,Above average,15,Below average,19,Average,25,Above average,26,Above average,128,Average,M,38,High
+50,22,30,Above average,29,Above average,32,Above average,25,Above average,29,Above average,25,Above average,170,Above average,M,20,Very low
+51,26,33,High,28,Above average,35,High,24,Average,29,Above average,26,Above average,175,Above average,M,2,Very low
+52,21,24,Average,21,Average,24,Average,22,Average,28,Above average,25,Above average,144,Average,M,14,Very low
+53,22,30,Above average,25,Above average,26,Above average,23,Average,24,Average,27,Above average,155,Above average,M,29,Moderate
+54,22,30,Above average,28,Above average,22,Average,20,Average,22,Average,30,Above average,152,Above average,M,29,Moderate
+55,23,27,Above average,24,Average,21,Average,21,Average,21,Average,28,Above average,142,Average,M,22,Moderate
+56,24,23,Average,20,Average,32,Above average,27,Above average,24,Average,24,Average,150,Above average,M,27,Moderate
+57,22,36,High,22,Average,19,Average,20,Average,24,Average,28,Above average,149,Above average,M,31,Moderate
+58,22,28,Above average,21,Average,23,Average,21,Average,19,Average,31,Above average,143,Average,M,35,Moderate
+59,22,18,Average,30,Above average,24,Average,29,Above average,24,Average,24,Average,139,Average,M,28,Moderate
+60,25,32,Above average,21,Average,19,Average,32,Above average,17,Average,27,Above average,148,Above average,M,30,Moderate
+61,21,25,Above average,28,Above average,20,Average,26,Above average,32,Above average,21,Average,152,Above average,M,27,Moderate
+62,24,16,Below average,29,Above average,26,Above average,26,Above average,25,Above average,22,Average,144,Average,M,27,Moderate
+63,22,24,Average,27,Above average,24,Average,25,Above average,25,Above average,30,Above average,155,Above average,M,32,Moderate
+64,22,23,Average,24,Average,29,Above average,21,Average,28,Above average,26,Above average,151,Above average,M,35,Moderate
+65,22,22,Average,19,Average,29,Above average,24,Average,30,Above average,25,Above average,149,Above average,M,31,Moderate
+66,18,30,Above average,27,Above average,31,Above average,29,Above average,33,High,28,Above average,172,Above average,M,3,Very low
+67,23,23,Average,29,Above average,29,Above average,23,Average,30,Above average,25,Above average,154,Above average,M,21,Very low
+68,25,26,Above average,28,Above average,29,Above average,23,Average,29,Above average,26,Above average,161,Above average,M,10,Very low
+69,22,19,Average,19,Average,21,Average,23,Average,24,Average,22,Average,128,Average,M,44,High
+70,22,28,Above average,35,High,32,Above average,38,High,29,Above average,31,Above average,193,High,M,9,Very low
+71,23,27,Above average,29,Above average,29,Above average,28,Above average,33,High,26,Above average,172,Above average,M,10,Very low
+72,21,33,High,31,Above average,30,Above average,28,Above average,31,Above average,26,Above average,179,Above average,M,11,Very low
+73,21,20,Average,31,Above average,27,Above average,28,Above average,30,Above average,22,Average,158,Above average,M,17,Very low
+74,22,23,Average,30,Above average,26,Above average,22,Average,31,Above average,23,Average,155,Above average,M,4,Very low
+75,21,29,Above average,33,High,34,High,29,Above average,32,Above average,26,Above average,183,Above average,M,3,Very low
+76,22,34,High,36,High,33,High,30,Above average,29,Above average,30,Above average,192,Above average,M,46,High
+77,21,16,Below average,26,Above average,27,Above average,30,Above average,30,Above average,26,Above average,155,Above average,M,39,High
+78,26,33,High,30,Above average,31,Above average,23,Average,30,Above average,25,Above average,172,Above average,M,5,Very low
+79,23,33,High,26,Above average,30,Above average,31,Above average,31,Above average,25,Above average,176,Above average,M,13,Very low
+80,21,25,Above average,26,Above average,29,Above average,26,Above average,30,Above average,22,Average,158,Above average,M,6,Very low
+81,21,29,Above average,30,Above average,27,Above average,25,Above average,33,High,20,Average,164,Above average,M,29,Moderate
+82,21,31,Above average,33,High,33,High,33,High,31,Above average,27,Above average,188,Above average,M,10,Very low
+83,22,29,Above average,29,Above average,36,High,28,Above average,36,High,32,Above average,190,Above average,M,32,Moderate
+84,21,31,Above average,25,Above average,32,Above average,30,Above average,36,High,23,Average,177,Above average,M,3,Very low
+85,21,32,Above average,28,Above average,23,Average,27,Above average,29,Above average,25,Above average,164,Above average,M,21,Very low
+86,24,25,Above average,31,Above average,32,Above average,33,High,31,Above average,22,Average,174,Above average,M,5,Very low
+87,21,29,Above average,30,Above average,29,Above average,26,Above average,29,Above average,21,Average,164,Above average,M,6,Very low
+88,22,26,Above average,24,Average,28,Above average,27,Above average,26,Above average,22,Average,153,Above average,M,11,Very low
+89,21,37,High,28,Above average,32,Above average,29,Above average,27,Above average,31,Above average,184,Above average,M,19,Very low
+90,23,26,Above average,24,Average,30,Above average,27,Above average,33,High,22,Average,162,Above average,M,38,High
+91,21,26,Above average,24,Average,24,Average,23,Average,29,Above average,24,Average,150,Above average,M,7,Very low
+92,20,27,Above average,31,Above average,29,Above average,21,Average,31,Above average,22,Average,161,Above average,M,12,Very low
+93,20,30,Above average,22,Average,29,Above average,23,Average,30,Above average,21,Average,155,Above average,M,13,Very low
+94,20,33,High,36,High,33,High,35,High,35,High,37,High,209,High,M,36,High
+95,20,22,Above average,29,Above average,31,Above average,22,Average,29,Above average,32,Above average,165,Above average,M,18,Very low
+96,19,30,Above average,33,High,32,Above average,30,Above average,32,Above average,25,Above average,182,Above average,M,18,Very low
+97,21,40,High,32,Above average,39,High,34,High,34,High,23,Average,202,High,M,0,Very low
+98,22,31,Above average,30,Above average,33,High,25,Above average,31,Above average,25,Above average,175,Above average,M,8,Very low
+99,24,31,Above average,33,High,28,Above average,18,Average,29,Above average,25,Above average,164,Above average,M,61,High
+100,21,33,High,33,High,35,High,29,Above average,39,High,24,Average,193,High,M,17,Very low
+101,25,22,Average,23,Average,22,Average,35,High,34,High,24,Average,160,Above average,M,24,Moderate
+102,18,32,Above average,25,Above average,31,Above average,23,Average,38,High,33,High,182,Above average,M,0,Very low
+103,21,39,High,32,Above average,37,High,25,Above average,35,High,30,Above average,198,High,M,2,Very low
+104,22,31,Above average,34,High,31,Above average,33,High,33,High,29,Above average,191,Above average,M,16,Very low
+1,23,27,Above average,31,Above average,34,High,38,High,35,High,25,Above Average,190,Above Average,F,17,Very low
+2,22,28,Above average,38,High,31,Above average,23,Average,32,Above average,21,Average,173,Above Average,F,29,Moderate
+3,23,21,Average,35,High,30,Above average,34,High,32,Above average,27,Above Average,178,Above Average,F,20,Very low
+4,19,26,Above average,26,Above average,28,Above average,29,Above average,30,Above average,30,Above Average,171,Above Average,F,28,Moderate
+5,21,25,Above average,28,Above average,24,Average,21,Average,32,Above average,22,Average,151,Above Average,F,32,Moderate
+6,18,27,Above average,29,Above average,30,Above average,24,Average,29,Above average,26,Above Average,165,Above Average,F,3,Very low
+7,21,30,Above average,31,Above average,32,Above average,35,High,36,High,27,Above Average,191,Above Average,F,3,Very low
+8,24,24,Average,25,Above average,29,Above average,25,Above average,34,High,24,Average,161,Above Average,F,28,Moderate
+9,23,31,Above average,29,Above average,25,Above average,29,Above average,29,Above average,28,Above Average,171,Above Average,F,32,Moderate
+10,18,35,High,33,High,35,High,34,High,35,High,36,High,208,High,F,6,Very low
+11,20,27,Above average,29,Above average,26,Above average,21,Average,33,High,33,High,169,Above Average,F,41,High
+12,21,32,Above average,31,Above average,27,Above average,27,Above average,30,Above average,27,Above Average,174,Above Average,F,8,Very low
+13,21,30,Above average,30,Above average,30,Above average,24,Average,33,High,24,Average,174,Above Average,F,31,Moderate
+14,22,25,Above average,31,Above average,26,Above average,25,Above average,31,Above average,27,Above Average,165,Above Average,F,23,Moderate
+15,22,28,Above average,30,Above average,32,Above average,30,Above average,28,Above average,24,Average,172,Above Average,F,18,Very low
+16,21,30,Above average,27,Above average,29,Above average,29,Above average,31,Above average,28,Above Average,174,Above Average,F,9,Very low
+17,22,34,High,32,Above average,32,Above average,29,Above average,35,High,25,Above Average,187,Above Average,F,1,Very low
+18,22,24,Average,29,Above average,28,Above average,23,Average,26,Above average,22,Average,152,Above Average,F,14,Very low
+19,24,25,Above average,30,Above average,32,Above average,27,Above average,28,Above average,29,Above Average,171,Above Average,F,35,High
+20,21,27,Above average,27,Above average,30,Above average,30,Above average,33,Above average,20,Average,167,Above Average,F,7,Very low
+21,19,27,Above average,27,Above average,26,Above average,25,Above average,24,Average,24,Average,153,Above Average,F,6,Very low
+22,20,31,Above average,27,Above average,28,Above average,30,Above average,32,Above average,25,Above Average,173,Above Average,F,8,Very low
+23,24,26,Above average,33,High,23,Average,26,Above average,31,Above average,29,Above Average,168,Above Average,F,51,High
+24,21,27,Above average,24,Average,19,Average,22,Average,23,Average,24,Average,139,Average,F,24,Moderate
+25,18,34,High,26,Above average,26,Above average,37,High,33,High,29,Above Average,185,Above Average,F,34,Moderate
+26,20,30,Above average,32,Above average,31,Above average,28,Above average,31,Above average,23,Average,175,Above Average,F,4,Very low
+27,21,16,Below average,18,Average,13,Below average,16,Below average,25,Above average,21,Average,109,Average,F,27,Moderate
+28,20,23,Average,23,Average,21,Average,24,Average,27,Above average,23,Average,141,Average,F,39,High
+29,20,24,Average,29,Above average,27,Above average,28,Above average,27,Above average,24,Average,159,Above Average,F,37,High
+30,20,23,Average,26,Above average,22,Average,25,Above average,28,Above average,23,Average,147,Above Average,F,19,Very low
+31,20,35,High,31,Above average,30,Above average,31,Above average,27,Above average,28,Above Average,182,Above Average,F,14,Very low
+32,24,27,Above average,27,Above average,26,Above average,28,Above average,28,Above average,29,Above Average,165,Above Average,F,17,Very low
+33,24,19,Average,29,Above average,24,Average,20,Average,29,Above average,26,Above Average,147,Above Average,F,26,Moderate
+34,21,31,Above average,26,Above average,33,High,34,High,35,High,27,Above Average,186,Above Average,F,1,Very low
+35,21,33,High,25,Above average,30,Above average,28,Above average,29,Above average,20,Average,165,Above Average,F,13,Very low
+36,24,31,Above average,25,Above average,28,Above average,29,Above average,31,Above average,25,Above Average,169,Above Average,F,22,Moderate
+37,22,25,Above average,32,Above average,27,Above average,22,Above average,33,High,23,Average,162,Above Average,F,34,Moderate
+38,21,33,High,34,High,34,High,32,Above average,30,Above average,31,Above Average,194,High,F,3,Very low
+39,22,31,Above average,22,Average,28,Above average,20,Average,34,High,21,Average,156,Above Average,F,44,High
+40,22,24,Average,29,Above average,23,Average,22,Average,28,Above average,28,Above Average,154,Above Average,F,29,Moderate
+41,23,30,Above average,30,Above average,28,Above average,24,Average,32,Above average,26,Above Average,170,Above Average,F,25,Moderate
+42,21,31,Above average,33,High,27,Above average,24,Average,32,Above average,25,Above Average,172,Above Average,F,33,Moderate
+43,21,23,Average,28,Above average,27,Above average,27,Above average,31,Above average,24,Average,160,Above Average,F,29,Moderate
+44,20,30,Above average,33,High,28,Above average,34,High,33,High,26,Above Average,184,Above Average,F,26,Moderate
+45,25,28,Above average,24,Average,28,Above average,25,Above average,26,Above average,29,Above Average,160,Above Average,F,7,Very low
+46,20,31,Above average,27,Above average,31,Above average,34,High,27,Above average,28,Above Average,182,Above Average,F,7,Very low
+47,23,30,Above average,31,Above average,27,Above average,21,Average,31,Above average,26,Above Average,166,Above Average,F,25,Moderate
+48,24,36,High,36,High,33,High,26,Above average,30,Above average,34,High,195,High,F,7,Very low
+49,22,34,High,38,High,39,High,32,Above average,38,High,27,Above Average,208,High,F,40,High
+50,20,31,Above average,25,Above average,30,Above average,26,Above average,27,Above average,21,Average,160,Above Average,F,20,Very low
+51,21,21,Average,27,Above average,28,Above average,27,Above average,35,High,25,Above Average,163,Above Average,F,5,Very low
+52,20,26,Above average,32,Above average,30,Above average,28,Above average,33,High,28,Above Average,177,Above Average,F,47,High
+53,20,25,Above average,36,High,29,Above average,32,Above average,29,Above average,27,Above Average,178,Above Average,F,48,High
+54,20,22,Average,24,Average,25,Above average,24,Average,25,Above average,19,Average,139,Average,F,30,Moderate
+55,21,27,Above average,31,Above average,28,Above average,31,Above average,35,High,26,Above Average,178,Above Average,F,6,Very low
+56,23,26,Above average,34,High,26,Above average,24,Average,32,Above average,27,Above Average,169,Above Average,F,48,High
+57,25,27,Above average,32,Above average,33,High,27,Above average,30,Above average,30,Above Average,179,Above Average,F,45,High
+58,21,24,Average,17,Average,22,Average,26,Above average,26,Above average,22,Average,137,Average,F,37,High
+59,21,31,Above average,31,Above average,27,Above average,28,Above average,32,Above average,26,Above Average,175,Above Average,F,14,Very low
+60,22,29,Above average,32,Above average,29,Above average,26,Above average,32,Above average,29,Above Average,177,Above Average,F,9,Very low
+61,21,29,Above average,32,Above average,29,Above average,32,Above average,36,High,25,Above Average,183,Above Average,F,4,Very low
+62,21,26,Above average,26,Above average,27,Above average,30,Above average,30,Above average,27,Above Average,166,Above Average,F,34,Moderate
+63,20,35,High,31,Above average,35,High,30,Above average,34,High,28,Above Average,193,High,F,4,Very low
+64,20,18,Average,23,Average,27,Above average,24,Average,28,Above average,24,Average,144,Average,F,45,High
+65,20,19,Average,29,Above average,22,Average,19,Average,22,Average,25,Above Average,136,Average,F,44,High
+66,23,27,Above average,24,Average,29,Above average,27,Above average,26,Above average,25,Above Average,158,Above Average,F,37,High
+67,18,30,Above average,29,Above average,28,Above average,28,Above average,27,Above average,21,Average,163,Above Average,F,27,Moderate
+68,20,28,Above average,30,Above average,29,Above average,27,Above average,30,Above average,26,Above Average,170,Above Average,F,20,Very low
+69,23,30,Above average,25,Above average,29,Above average,27,Above average,32,Above average,23,Average,166,Above Average,F,6,Very low
+70,20,30,Above average,31,Above average,28,Above average,24,Average,28,Above average,22,Average,163,Above Average,F,25,Moderate
+71,21,28,Above average,30,Above average,26,Above average,24,Average,34,High,26,Above Average,168,Above Average,F,45,High
+72,20,31,Above average,31,Above average,32,Above average,34,High,31,Above average,31,Above Average,190,Above Average,F,14,Very low
+73,20,28,Above average,32,Above average,26,Above average,21,Average,30,Above average,21,Average,158,Above Average,F,32,Moderate
+74,21,35,High,27,Above average,33,High,30,Above average,25,Above average,26,Above Average,176,Above Average,F,2,Very low
+75,22,31,Above average,25,Above average,32,Above average,30,Above average,29,Above average,26,Above Average,173,Above Average,F,15,Very low
+76,24,27,Above average,28,Above average,26,Above average,21,Average,30,Above average,28,Above Average,160,Above Average,F,44,High
+77,22,29,Above average,25,Above average,32,Above average,31,Above average,30,Above average,24,Average,171,Above Average,F,7,Very low
+78,23,33,High,30,Above average,30,Above average,30,Above average,32,Above average,22,Average,177,Above Average,F,20,Very low
+79,21,32,Above average,31,Above average,30,Above average,26,Above average,27,Above average,26,Above Average,172,Above Average,F,12,Very low
+80,21,32,Above average,34,High,29,Above average,33,High,33,High,27,Above Average,188,Above Average,F,0,Very low
+81,21,28,Above average,30,Above average,27,Above average,28,Above average,29,Above average,29,Above Average,171,Above Average,F,49,High
+82,22,29,Above average,33,High,27,Above average,28,Above average,31,Above average,27,Above Average,175,Above Average,F,45,High
+83,22,20,Average,31,Above average,24,Average,20,Average,26,Above average,20,Average,117,Average,F,53,High
+84,21,29,Above average,31,Above average,33,Above average,24,Average,32,Above average,24,Average,173,Above Average,F,2,Very low
+85,15,32,Above average,32,Above average,34,High,31,Above average,36,High,24,Average,189,Above Average,F,53,High
+86,22,34,High,30,Above average,31,Above average,31,Above average,29,Above average,24,Average,179,Above Average,F,15,Very low
+87,22,30,Above average,31,Above average,23,Average,26,Above average,26,Above average,27,Above Average,163,Above Average,F,22,Moderate
+88,24,24,Average,22,Average,24,Average,26,Above average,30,Above average,29,Above Average,153,Above Average,F,20,Very low
+89,22,31,Above average,33,High,29,Above average,26,Above average,33,High,26,Above Average,178,Above Average,F,23,Moderate
+90,22,24,Average,26,Above average,23,Average,27,Above average,18,Average,21,Average,139,Average,F,12,Very low
+91,20,31,Above average,35,High,29,Above average,25,Above average,30,Above average,27,Above Average,177,Above Average,F,27,Moderate
+92,22,30,Above average,24,Average,32,Above average,27,Above average,31,Above average,27,Above Average,171,Above Average,F,13,Very low
+93,21,30,Above average,33,High,27,Above average,29,Above average,34,High,27,Above Average,180,Above Average,F,14,Very low
+94,21,35,High,31,Above average,31,Above average,31,Above average,28,Above average,30,Above Average,186,Above Average,F,17,Very low
+95,22,29,Above average,30,Above average,30,Above average,24,Average,28,Above average,24,Average,165,Above Average,F,11,Very low
+96,23,26,Above average,26,Above average,19,Average,29,Above average,25,Above average,25,Above Average,150,Above Average,F,24,Moderate
+97,17,32,Above average,29,Above average,28,Above average,25,Above average,34,High,30,Above Average,178,Above Average,F,24,Moderate
+98,18,23,Average,30,Above average,21,Average,28,Above average,28,Above average,24,Average,154,Above Average,F,14,Very low
+99,21,24,Average,28,Above average,23,Average,26,Above average,35,High,24,Average,160,Above Average,F,36,High
+100,20,29,Above average,32,Above average,27,Above average,28,Above average,34,High,29,Above Average,179,Above Average,F,11,Very low
+101,22,25,Above average,25,Above average,30,Above average,21,Above average,31,Above average,24,Average,156,Above Average,F,2,Very low
+102,19,24,Average,27,Above average,32,Above average,30,Above average,29,Above average,23,Average,165,Above Average,F,8,Very low
+103,22,26,Above average,26,Above average,30,Above average,33,High,34,High,29,Above Average,178,Above Average,F,33,Moderate
+104,23,33,High,33,High,28,Above average,30,Above average,29,Above average,30,Above Average,183,Above Average,F,12,Very low
+105,25,27,Above average,28,Above average,23,Average,28,Above average,29,Above average,26,Above Average,161,Above Average,F,21,Very low
+106,23,25,Above average,27,Above average,24,Average,22,Average,28,Above average,24,Average,150,Above Average,F,19,Very low
+107,25,26,Above average,28,Above average,28,Above average,29,Above average,29,Above average,25,Above Average,165,Above Average,F,25,Moderate
